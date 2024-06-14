@@ -1,0 +1,8 @@
+@layer utilities {
+    .bg-brown-black-gradient {
+      background-image: linear-gradient(to left, #A52A2A, #000000);
+    }
+  }
+  body {
+    font-family: 'Arial', sans-serif;
+  }

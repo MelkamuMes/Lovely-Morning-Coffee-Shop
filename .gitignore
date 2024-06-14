@@ -1,0 +1,31 @@
+# Dependency directories
+node_modules/
+dist/
+.cache/
+.temp/
+.pnpm-debug.log
+pnpm-lock.yaml
+yarn.lock
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Editor directories and files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# macOS specific files
+.DS_Store
+
+# Compiled files and build artifacts
+output.css
+output.css.map
+output.js
+output.js.map
+
+# Logs
+logs/
